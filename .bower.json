@@ -25,7 +25,7 @@
   "_resolution": {
     "type": "version",
     "tag": "0.4.6",
-    "commit": "1dd0161521623c5fef6ed9e72f46ac1c93b43512"
+    "commit": "d35590f723ef3732d08641438e2bcbcf73ec4f82"
   },
   "_source": "https://github.com/walkerLuo/bootstrap-sweetalert.git",
   "_target": "~0.4.6",
