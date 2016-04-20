@@ -1,0 +1,33 @@
+{
+  "name": "bootstrap-sweetalert",
+  "homepage": "https://github.com/walkerLuo/bootstrap-sweetalert/",
+  "authors": [
+      "walkerLuo <walker@bu2trip.com>"
+  ],
+  "description": "A beautiful replacement for JavaScript's alert for Bootstrap.",
+  "main": [
+    "lib/sweet-alert.js",
+    "lib/sweet-alert.css",
+    "lib/sweet-alert.less",
+    "lib/sweet-alert-animations.less"
+  ],
+  "keywords": [
+    "alert",
+    "modal"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:walkerLuo/bootstrap-sweetalert.git"
+  },
+  "license": "MIT",
+  "version": "0.4.6",
+  "_release": "0.4.6",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.4.6",
+    "commit": "1dd0161521623c5fef6ed9e72f46ac1c93b43512"
+  },
+  "_source": "https://github.com/walkerLuo/bootstrap-sweetalert.git",
+  "_target": "~0.4.6",
+  "_originalSource": "bootstrap-sweetalert"
+}
