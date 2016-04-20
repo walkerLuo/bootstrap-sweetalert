@@ -1,8 +1,8 @@
 {
   "name": "bootstrap-sweetalert",
   "description": "A beautiful 'replacement' for JavaScript's alert",
-  "version": "0.4.2",
-  "homepage": "https://github.com/walkerLuo/bootstrap-sweetalert",
+  "version": "0.4.6",
+  "homepage": "https://github.com/walkerLuo/bootstrap-sweetalert/",
   "author": "walkerLuo <walker@bu2trip.com>",
   "licenses": [
     {
